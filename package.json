@@ -1,0 +1,22 @@
+{
+  "name": "typescript-library-toy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolySSA/typescript-library-toy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HolySSA/typescript-library-toy/issues"
+  },
+  "homepage": "https://github.com/HolySSA/typescript-library-toy#readme"
+}
